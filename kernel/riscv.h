@@ -364,3 +364,4 @@ sfence_vma()
 
 typedef uint64 pte_t;
 typedef uint64 *pagetable_t; // 512 PTEs
+#define MAX_PTE_NUMS 512
